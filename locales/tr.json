@@ -1,0 +1,57 @@
+{
+  "nav": {
+    "home": "Ana Sayfa",
+    "products": "Ürünler",
+    "flash_sale": "Flaş Satış",
+    "orders": "Siparişler",
+    "profile": "Profil"
+  },
+  "header": {
+    "search_placeholder": "Ürün ara...",
+    "messages": "Mesajlar",
+    "language": "Dil",
+    "menu": "Menü"
+  },
+  "home": {
+    "welcome": "Mağazamıza Hoş Geldiniz",
+    "categories": "Kategoriler",
+    "hot_products": "Popüler Ürünler",
+    "view_all": "Tümünü Gör"
+  },
+  "products": {
+    "all_products": "Tüm Ürünler",
+    "filter": "Filtrele",
+    "sort": "Sırala",
+    "price_low_high": "Fiyat: Düşükten Yükseğe",
+    "price_high_low": "Fiyat: Yüksekten Düşüğe",
+    "newest": "En Yeni",
+    "add_to_cart": "Sepete Ekle",
+    "buy_now": "Şimdi Satın Al"
+  },
+  "orders": {
+    "my_orders": "Siparişlerim",
+    "all": "Tümü",
+    "pending_payment": "Ödeme Bekliyor",
+    "pending_shipment": "Kargo Bekliyor",
+    "shipped": "Kargoya Verildi",
+    "completed": "Tamamlandı",
+    "order_details": "Sipariş Detayları",
+    "track_order": "Siparişi Takip Et"
+  },
+  "profile": {
+    "my_profile": "Profilim",
+    "account_settings": "Hesap Ayarları",
+    "address_management": "Adres Yönetimi",
+    "payment_methods": "Ödeme Yöntemleri",
+    "help_center": "Yardım Merkezi",
+    "logout": "Çıkış Yap"
+  },
+  "flash_sale": {
+    "flash_sale": "Flaş Satış",
+    "ends_in": "Bitiş",
+    "sold": "Satıldı",
+    "limited_stock": "Sınırlı Stok",
+    "grab_now": "Hemen Al",
+    "sold_out": "Tükendi"
+  }
+}

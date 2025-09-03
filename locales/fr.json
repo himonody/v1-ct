@@ -1,0 +1,57 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "products": "Produits",
+    "flash_sale": "Vente Flash",
+    "orders": "Commandes",
+    "profile": "Profil"
+  },
+  "header": {
+    "search_placeholder": "Rechercher des produits...",
+    "messages": "Messages",
+    "language": "Langue",
+    "menu": "Menu"
+  },
+  "home": {
+    "welcome": "Bienvenue dans Notre Magasin",
+    "categories": "Catégories",
+    "hot_products": "Produits Populaires",
+    "view_all": "Voir Tout"
+  },
+  "products": {
+    "all_products": "Tous les Produits",
+    "filter": "Filtrer",
+    "sort": "Trier",
+    "price_low_high": "Prix: Croissant",
+    "price_high_low": "Prix: Décroissant",
+    "newest": "Plus Récent",
+    "add_to_cart": "Ajouter au Panier",
+    "buy_now": "Acheter Maintenant"
+  },
+  "orders": {
+    "my_orders": "Mes Commandes",
+    "all": "Toutes",
+    "pending_payment": "Paiement en Attente",
+    "pending_shipment": "Expédition en Attente",
+    "shipped": "Expédié",
+    "completed": "Terminé",
+    "order_details": "Détails de la Commande",
+    "track_order": "Suivre la Commande"
+  },
+  "profile": {
+    "my_profile": "Mon Profil",
+    "account_settings": "Paramètres du Compte",
+    "address_management": "Gestion des Adresses",
+    "payment_methods": "Méthodes de Paiement",
+    "help_center": "Centre d'Aide",
+    "logout": "Déconnexion"
+  },
+  "flash_sale": {
+    "flash_sale": "Vente Flash",
+    "ends_in": "Se termine dans",
+    "sold": "Vendu",
+    "limited_stock": "Stock Limité",
+    "grab_now": "Acheter Maintenant",
+    "sold_out": "Épuisé"
+  }
+}

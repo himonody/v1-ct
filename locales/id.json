@@ -1,0 +1,57 @@
+{
+  "nav": {
+    "home": "Beranda",
+    "products": "Produk",
+    "flash_sale": "Flash Sale",
+    "orders": "Pesanan",
+    "profile": "Profil"
+  },
+  "header": {
+    "search_placeholder": "Cari produk...",
+    "messages": "Pesan",
+    "language": "Bahasa",
+    "menu": "Menu"
+  },
+  "home": {
+    "welcome": "Selamat Datang di Toko Kami",
+    "categories": "Kategori",
+    "hot_products": "Produk Populer",
+    "view_all": "Lihat Semua"
+  },
+  "products": {
+    "all_products": "Semua Produk",
+    "filter": "Filter",
+    "sort": "Urutkan",
+    "price_low_high": "Harga: Rendah ke Tinggi",
+    "price_high_low": "Harga: Tinggi ke Rendah",
+    "newest": "Terbaru",
+    "add_to_cart": "Tambah ke Keranjang",
+    "buy_now": "Beli Sekarang"
+  },
+  "orders": {
+    "my_orders": "Pesanan Saya",
+    "all": "Semua",
+    "pending_payment": "Menunggu Pembayaran",
+    "pending_shipment": "Menunggu Pengiriman",
+    "shipped": "Dikirim",
+    "completed": "Selesai",
+    "order_details": "Detail Pesanan",
+    "track_order": "Lacak Pesanan"
+  },
+  "profile": {
+    "my_profile": "Profil Saya",
+    "account_settings": "Pengaturan Akun",
+    "address_management": "Manajemen Alamat",
+    "payment_methods": "Metode Pembayaran",
+    "help_center": "Pusat Bantuan",
+    "logout": "Keluar"
+  },
+  "flash_sale": {
+    "flash_sale": "Flash Sale",
+    "ends_in": "Berakhir dalam",
+    "sold": "Terjual",
+    "limited_stock": "Stok Terbatas",
+    "grab_now": "Beli Sekarang",
+    "sold_out": "Habis"
+  }
+}

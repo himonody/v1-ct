@@ -1,0 +1,60 @@
+{
+  "nav": {
+    "home": "ホーム",
+    "products": "商品",
+    "flashSale": "タイムセール",
+    "profile": "プロフィール"
+  },
+  "header": {
+    "search": "検索",
+    "messages": "メッセージ",
+    "language": "言語",
+    "menu": "メニュー"
+  },
+  "home": {
+    "categories": "カテゴリー",
+    "hotProducts": "人気商品",
+    "viewMore": "もっと見る"
+  },
+  "categories": {
+    "electronics": "電子機器",
+    "fashion": "ファッション",
+    "home": "ホーム・ガーデン",
+    "beauty": "美容・健康",
+    "sports": "スポーツ",
+    "books": "本・雑誌"
+  },
+  "carousel": {
+    "slide1": {
+      "title": "春の新作コレクション",
+      "subtitle": "最新トレンドを発見しよう"
+    },
+    "slide2": {
+      "title": "スマートテクノロジー",
+      "subtitle": "革新的なガジェットを体験"
+    },
+    "slide3": {
+      "title": "ホームエッセンシャル",
+      "subtitle": "快適な生活空間を作ろう"
+    }
+  },
+  "orders": {
+    "all": "すべて",
+    "pending": "支払い待ち",
+    "processing": "処理中",
+    "shipped": "発送済み",
+    "delivered": "配達完了",
+    "cancelled": "キャンセル"
+  },
+  "languages": {
+    "en": "English",
+    "zh-CN": "简体中文",
+    "es": "Español",
+    "fr": "Français",
+    "ar": "العربية",
+    "id": "Bahasa Indonesia",
+    "tr": "Türkçe",
+    "ru": "Русский",
+    "ja": "日本語"
+  }
+}

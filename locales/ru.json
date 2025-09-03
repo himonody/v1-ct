@@ -1,0 +1,57 @@
+{
+  "nav": {
+    "home": "Главная",
+    "products": "Товары",
+    "flash_sale": "Молниеносная Распродажа",
+    "orders": "Заказы",
+    "profile": "Профиль"
+  },
+  "header": {
+    "search_placeholder": "Поиск товаров...",
+    "messages": "Сообщения",
+    "language": "Язык",
+    "menu": "Меню"
+  },
+  "home": {
+    "welcome": "Добро пожаловать в наш магазин",
+    "categories": "Категории",
+    "hot_products": "Популярные товары",
+    "view_all": "Посмотреть все"
+  },
+  "products": {
+    "all_products": "Все товары",
+    "filter": "Фильтр",
+    "sort": "Сортировка",
+    "price_low_high": "Цена: по возрастанию",
+    "price_high_low": "Цена: по убыванию",
+    "newest": "Новинки",
+    "add_to_cart": "В корзину",
+    "buy_now": "Купить сейчас"
+  },
+  "orders": {
+    "my_orders": "Мои заказы",
+    "all": "Все",
+    "pending_payment": "Ожидает оплаты",
+    "pending_shipment": "Ожидает отправки",
+    "shipped": "Отправлен",
+    "completed": "Завершен",
+    "order_details": "Детали заказа",
+    "track_order": "Отследить заказ"
+  },
+  "profile": {
+    "my_profile": "Мой профиль",
+    "account_settings": "Настройки аккаунта",
+    "address_management": "Управление адресами",
+    "payment_methods": "Способы оплаты",
+    "help_center": "Центр помощи",
+    "logout": "Выйти"
+  },
+  "flash_sale": {
+    "flash_sale": "Молниеносная распродажа",
+    "ends_in": "Заканчивается через",
+    "sold": "Продано",
+    "limited_stock": "Ограниченный запас",
+    "grab_now": "Купить сейчас",
+    "sold_out": "Распродано"
+  }
+}
